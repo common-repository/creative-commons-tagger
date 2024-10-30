@@ -1,0 +1,25 @@
+.image-credit {
+	margin-right: 5px;
+	padding-left: 10px;
+}
+
+.image-credit a {
+	color: inherit;
+	text-decoration: none;
+	font: inherit;
+	vertical-align: top;
+}
+
+.license {
+	font-family: 'CCIcons'; 
+	font-size: 140%;
+	vertical-align: top;
+}
+
+@font-face {
+	font-family: 'CCIcons';
+	src: url('./creative-commons-webfont/cc-icons-webfont.eot');
+	src: url('./creative-commons-webfont/cc-icons-webfont.eot?#iefix') format("embedded-opentype"), url('./creative-commons-webfont/cc-icons-webfont.woff') format("woff"), url('./creative-commons-webfont/cc-icons-webfont.ttf') format("truetype"), url('./creative-commons-webfont/cc-icons-webfont.svg#CCIcons') format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
